@@ -1,0 +1,71 @@
+﻿# 前端技术栈
+
+
+基本开发技能：
+	1.Git版本控制
+	2.HTTP/HTTPS协议
+	
+	
+基础知识：
+	HTML
+		1.各种标签及属性
+		2.编写语义化HTML
+		3.SEO基础
+	
+	CSS
+		1.各种属性及属性值
+		2.页面布局设计
+			浮动
+			定位
+			display
+			盒模型
+			flex布局
+		3.媒体查询
+	JavaScript
+		DOM操作
+		FetchAPI/Ajax
+		ES6+
+		浏览器工作原理
+
+
+包管理工具：
+	npm 
+	yarn
+
+
+css预处理器：
+	SASS
+	Less
+	PostCSS--->CSS modules
+		PostCSS并不是预处理器，先学习SASS，然后再掌握POstCSS
+	
+	BEM css架构
+
+
+构建工具：
+	webpack
+	
+	
+框架：
+	React
+		Mobx
+		Redux
+	Vue
+		Vuex
+
+
+类型检查
+	TypeScript
+	
+	
+实用工具库：
+	1.classnames
+	2.lodash
+	3.moment
+	
+
+​	
+
+​	
+
+​	

@@ -1,0 +1,11 @@
+sublime插件安装集合：
+emmet(可修改配置使其支持jsx语法))
+typescript
+SublimeCodeIntel
+babel
+brackethighlighter
+color Highlight(没有er)
+less
+sass
+FileIcons
+Terminal  （ctrl+shift+alt+T,ctrl+shift+T）

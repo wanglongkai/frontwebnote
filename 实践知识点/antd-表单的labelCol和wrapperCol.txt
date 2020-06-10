@@ -1,0 +1,14 @@
+我们经常在Form.Item上使用labelCol和wrapperCol来控制label和输入框的布局。
+其实这里有一个技巧：
+    const formItemLayout = {
+	  style:{display: 'flex'},
+	  labelCol: {style:{width: '8em'}},
+	  wrapperCol: {style:{flex:1}},
+	};
+	
+像上面这样，在组件上展开即可。
+
+这个对象的分析：
+1.将Form.Item display为flex。
+2.label 应用 labelCol的样式
+3.wrapper 应用 wrapperCol的样式。
